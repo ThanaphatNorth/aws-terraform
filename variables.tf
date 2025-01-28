@@ -5,7 +5,7 @@ variable "aws_region" {
 
 variable "vpc_name" {
   type    = string
-  default = "template_vpc"
+  default = "template_vpc1"
 }
 
 variable "vpc_cidr" {
